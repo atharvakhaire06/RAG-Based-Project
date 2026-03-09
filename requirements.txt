@@ -1,0 +1,4 @@
+inngest
+uvicorn[standard]
+fastapi
+qdrant-client
